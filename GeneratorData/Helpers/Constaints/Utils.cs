@@ -53,46 +53,5 @@ namespace GeneratorData.Helpers.Constaints
 
             return randomDateTime;
         }
-
-        public static void AddFirstDataTest()
-        {
-            var options = new DbContextOptionsBuilder<ApplicationDbContext>()
-                    .UseSqlServer("Server=.\\EXPRESSKHANG;Database=PracticeConvention;Trusted_Connection=True;TrustServerCertificate=True;MultipleActiveResultSets=True")
-                    .Options;
-
-            using (var db = new ApplicationDbContext(options))
-            {
-                Student student = new Student
-                {
-                    Name = "Khang",
-                    Age = 18,
-                    DateBirth = DateTime.Now,
-                    Address = new Address
-                    {
-                        Street = "Le Duc Tho",
-                        State = "UK",
-                        City = "HCM",
-                        Country = "VIETNAM",
-                        PostalCode = "70000",
-                    },
-                };
-
-                Course course = new Course
-                {
-                    CourseName = "Test Course"
-                };
-
-                Grade grade = new Grade
-                {
-                    Student = student,
-                    Course = course,
-                    Score = Score.B
-                };
-
-                db.Grades.AddAsync(grade);
-                db.SaveChanges();
-            }
-
-        }
     }
 }

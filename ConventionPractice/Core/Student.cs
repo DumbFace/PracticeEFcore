@@ -18,7 +18,6 @@ namespace ConventionPractice.Core
         public Gender? Gender { get; set; }
         public int AddressId { get; set; }
         public Address? Address { get; set; }
-        // public ICollection<Course> Courses { get; set; }
         public ICollection<Grade>? Grades { get; set; }
     }
 

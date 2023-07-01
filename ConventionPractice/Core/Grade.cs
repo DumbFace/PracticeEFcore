@@ -17,6 +17,6 @@ namespace ConventionPractice.Core
 
     public enum Score
     {
-        A,B,C,D,E,G,Z,S,W,Q,P
+        A, B, C, D, E, G, Z, S, W, Q, P
     }
 }

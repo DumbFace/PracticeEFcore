@@ -8,5 +8,6 @@ namespace GeneratorData.Services.UpdateStudentServices
     public interface IUpdateEmail
     {
         void UpdateEmail();
+        bool CheckIfEmailExist(string email);
     }
 }

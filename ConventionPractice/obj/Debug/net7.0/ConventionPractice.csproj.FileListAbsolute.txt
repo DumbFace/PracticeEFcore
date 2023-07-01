@@ -178,6 +178,7 @@ F:\Repo\PracticeEFcore\ConventionPractice\bin\Debug\net7.0\Microsoft.IdentityMod
 F:\Repo\PracticeEFcore\ConventionPractice\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
 F:\Repo\PracticeEFcore\ConventionPractice\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
 F:\Repo\PracticeEFcore\ConventionPractice\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\Repo\PracticeEFcore\ConventionPractice\bin\Debug\net7.0\Newtonsoft.Json.dll
 F:\Repo\PracticeEFcore\ConventionPractice\bin\Debug\net7.0\System.CodeDom.dll
 F:\Repo\PracticeEFcore\ConventionPractice\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
 F:\Repo\PracticeEFcore\ConventionPractice\bin\Debug\net7.0\System.Drawing.Common.dll
@@ -223,4 +224,3 @@ F:\Repo\PracticeEFcore\ConventionPractice\obj\Debug\net7.0\refint\ConventionPrac
 F:\Repo\PracticeEFcore\ConventionPractice\obj\Debug\net7.0\ConventionPractice.pdb
 F:\Repo\PracticeEFcore\ConventionPractice\obj\Debug\net7.0\ConventionPractice.genruntimeconfig.cache
 F:\Repo\PracticeEFcore\ConventionPractice\obj\Debug\net7.0\ref\ConventionPractice.dll
-F:\Repo\PracticeEFcore\ConventionPractice\bin\Debug\net7.0\Newtonsoft.Json.dll

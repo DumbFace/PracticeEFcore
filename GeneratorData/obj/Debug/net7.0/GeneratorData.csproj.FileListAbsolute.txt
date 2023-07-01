@@ -9,6 +9,8 @@ F:\Repo\PracticeEFcore\GeneratorData\bin\Debug\net7.0\GeneratorData.deps.json
 F:\Repo\PracticeEFcore\GeneratorData\bin\Debug\net7.0\GeneratorData.runtimeconfig.json
 F:\Repo\PracticeEFcore\GeneratorData\bin\Debug\net7.0\GeneratorData.dll
 F:\Repo\PracticeEFcore\GeneratorData\bin\Debug\net7.0\GeneratorData.pdb
+F:\Repo\PracticeEFcore\GeneratorData\bin\Debug\net7.0\AutoMapper.dll
+F:\Repo\PracticeEFcore\GeneratorData\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 F:\Repo\PracticeEFcore\GeneratorData\bin\Debug\net7.0\Azure.Core.dll
 F:\Repo\PracticeEFcore\GeneratorData\bin\Debug\net7.0\Azure.Identity.dll
 F:\Repo\PracticeEFcore\GeneratorData\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
@@ -27,6 +29,10 @@ F:\Repo\PracticeEFcore\GeneratorData\bin\Debug\net7.0\Microsoft.IdentityModel.Pr
 F:\Repo\PracticeEFcore\GeneratorData\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
 F:\Repo\PracticeEFcore\GeneratorData\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
 F:\Repo\PracticeEFcore\GeneratorData\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\Repo\PracticeEFcore\GeneratorData\bin\Debug\net7.0\Newtonsoft.Json.dll
+F:\Repo\PracticeEFcore\GeneratorData\bin\Debug\net7.0\Serilog.dll
+F:\Repo\PracticeEFcore\GeneratorData\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+F:\Repo\PracticeEFcore\GeneratorData\bin\Debug\net7.0\Serilog.Sinks.File.dll
 F:\Repo\PracticeEFcore\GeneratorData\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
 F:\Repo\PracticeEFcore\GeneratorData\bin\Debug\net7.0\System.Drawing.Common.dll
 F:\Repo\PracticeEFcore\GeneratorData\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
@@ -60,9 +66,3 @@ F:\Repo\PracticeEFcore\GeneratorData\obj\Debug\net7.0\refint\GeneratorData.dll
 F:\Repo\PracticeEFcore\GeneratorData\obj\Debug\net7.0\GeneratorData.pdb
 F:\Repo\PracticeEFcore\GeneratorData\obj\Debug\net7.0\GeneratorData.genruntimeconfig.cache
 F:\Repo\PracticeEFcore\GeneratorData\obj\Debug\net7.0\ref\GeneratorData.dll
-F:\Repo\PracticeEFcore\GeneratorData\bin\Debug\net7.0\Newtonsoft.Json.dll
-F:\Repo\PracticeEFcore\GeneratorData\bin\Debug\net7.0\AutoMapper.dll
-F:\Repo\PracticeEFcore\GeneratorData\bin\Debug\net7.0\Serilog.dll
-F:\Repo\PracticeEFcore\GeneratorData\bin\Debug\net7.0\Serilog.Sinks.File.dll
-F:\Repo\PracticeEFcore\GeneratorData\bin\Debug\net7.0\Serilog.Sinks.Console.dll
-F:\Repo\PracticeEFcore\GeneratorData\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

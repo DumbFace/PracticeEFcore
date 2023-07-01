@@ -9,14 +9,12 @@ namespace ConventionPractice.Data
 {
     public class ApplicationDbContext : DbContext
     {
-        public ApplicationDbContext(DbContextOptions options) : base(options)
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
         }
-
-
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=.\\EXPRESSKHANG;Database=PracticeConvention;Trusted_Connection=True;TrustServerCertificate=True;");
+            // optionsBuilder.UseSqlServer("Server=.\\EXPRESSKHANG;Database=PracticeConvention;Trusted_Connection=True;TrustServerCertificate=True");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -34,7 +32,7 @@ namespace ConventionPractice.Data
                         .HasOne<Course>(s => s.Course)
                         .WithMany(s => s.Grades)
                         .HasForeignKey(s => s.CourseId);
-    
+
             modelBuilder.Entity<Student>()
                         .HasOne<Address>(s => s.Address)
                         .WithOne(s => s.Student)
